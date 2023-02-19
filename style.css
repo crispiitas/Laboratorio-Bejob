@@ -1,0 +1,46 @@
+html {
+background-color: #242933;
+}
+
+leyend {
+  color: #9AA7CA;
+  font-size: 30px;
+  font-weight: bold;
+  padding-bottom: 5px;
+  text-align: center;
+  
+}
+
+label {
+  color: #9AA7CA;
+  padding-top: 30px;
+  text-align: left;
+}
+
+form {
+align-content: center;
+background: #2F3644;
+border : 1px solid #3F455C;
+border-radius: 5px;
+padding : 30px;
+width: 300px;
+
+}
+
+div {
+   text-align: left;
+}
+
+input{
+  background: #FFFFFF;
+  border-radius: 5px;
+  padding: 8px 1em 0 2em;
+}
+
+button {
+  background: #6C63FF;
+  border-radius: 5px;
+  color:  white;
+  padding: 8px 9em 0 2em;
+ 
+}
